@@ -1,0 +1,10 @@
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.ValueTuple.dll
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ja\FSharp.Core.resources.dll
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\data\develop\making\20180322_fs_helloworld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
